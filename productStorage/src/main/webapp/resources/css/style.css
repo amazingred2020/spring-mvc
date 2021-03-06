@@ -1,0 +1,24 @@
+table {
+	empty-cells: hide;
+}
+td {
+	background-color: #FFA07A;
+}
+
+th{
+	background-color: #C71585;
+}
+	
+#container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  background-color: #1E90FF;
+  transform: translate(-50%,-50%);
+}
+
+.buttons {
+	display: flex;
+	justify-content: space-around;
+	margin: 10px 0px;
+}
